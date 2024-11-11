@@ -1,0 +1,53 @@
+img {
+    width: 300px;
+    height: 260px;
+}
+
+.imgcss{
+    width: 230px;
+    height: 290px;
+    margin: 0px 0px 0px 30px;
+}
+.imgjs{
+    width: 300px;
+    height: 300px;
+}
+.imgphp{
+    height: 220px;
+    width: 370px;
+}
+.imgnode{
+    height: 200px;
+}
+.imgpy{
+    height: 320px;
+}
+.arial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.rouge{
+    color: red;
+}
+
+.bleu{
+    color: blue;
+}
+
+.vert{
+    color: green;
+}
+
+.CSMS{
+    font-family: "Comic Sans MS";
+}
+
+.frouge{
+    background-color: red;
+}
+.fbleu{
+    background-color: blue;
+}
+.fvert{
+    background-color: green;
+}
