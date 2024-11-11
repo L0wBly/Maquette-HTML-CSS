@@ -1,3 +1,32 @@
+body {
+    background: grey;
+    
+}
+
+.un {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.matieres {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.deux {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.trois {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
 img {
     width: 300px;
     height: 260px;
